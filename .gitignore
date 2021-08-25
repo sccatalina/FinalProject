@@ -37,3 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.ipynb_checkpoints/HealthNutrition.R-checkpoint.ipynb
+.ipynb_checkpoints/HealthNutrition.Py-checkpoint.ipynb
